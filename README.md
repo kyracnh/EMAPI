@@ -22,6 +22,7 @@ Retrieve event details.
 PUT /events/<id>/
 Update event details.
 DELETE /events/<id>/
+
 ## Delete an event.
 Upcoming Events:
 GET /events/upcoming/
